@@ -1,0 +1,9 @@
+﻿D:\VS2022\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(连点器.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  Main.cpp
+D:\连点器代码\连点器\连点器\Print.h(18,16): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+D:\连点器代码\连点器\连点器\Print.h(18,18): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+D:\连点器代码\连点器\连点器\HUD.h(7,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\连点器代码\连点器\连点器\HUD.h(92,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\连点器代码\连点器\连点器\Help.h(137,16): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\连点器代码\连点器\连点器\Help.h(158,18): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  连点器.vcxproj -> D:\连点器代码\连点器\Debug\GC.exe

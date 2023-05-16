@@ -1,0 +1,12 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: 中间目录(Release\)包含从另一个项目(连点器.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  连点器.cpp
+D:\连点器代码\连点器\连点器\函数.h(14,16): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+D:\连点器代码\连点器\连点器\函数.h(14,18): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+D:\连点器代码\连点器\连点器\函数.h(321,20): warning C4477: “fscanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“const char *”
+D:\连点器代码\连点器\连点器\函数.h(346,19): warning C4477: “fscanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“const char *”
+D:\连点器代码\连点器\连点器\函数.h(665,1): error C2059: 语法错误:“}”
+D:\连点器代码\连点器\连点器\函数.h(665,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+D:\连点器代码\连点器\连点器\函数.h(668,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+D:\连点器代码\连点器\连点器\函数.h(668,1): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+D:\连点器代码\连点器\连点器\函数.h(915,13): error C3861: “setspeed”: 找不到标识符
+D:\连点器代码\连点器\连点器\函数.h(923,13): error C3861: “setspeed”: 找不到标识符
